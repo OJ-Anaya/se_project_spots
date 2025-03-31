@@ -61,7 +61,6 @@
   border: none;
   cursor: pointer;
 }
-}
 
 .profile__add-btn {
   align-self: end;
@@ -99,6 +98,7 @@
     font-size: 20px;
     margin-bottom: 6px;
     max-width: 288px;
+    font-weight: 500;
   }
 
   .profile__description {

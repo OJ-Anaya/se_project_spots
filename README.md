@@ -21,3 +21,4 @@ The way you'll do this at work is by exporting images directly from Figma — we
 Good luck and have fun!
 
 **Plans to improve**
+new changes after project gets reviewed again and then record the explanation video.

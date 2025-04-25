@@ -92,6 +92,7 @@
     margin-right: 0;
     height: 80px;
     width: 80px;
+    object-fit: cover;
   }
 
   .profile__name {

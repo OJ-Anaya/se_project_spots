@@ -14,7 +14,7 @@ On this project we're requiered to use everything we had learned since day one t
 
 ## Deployment
 
-This page is deployed ti GitHub Pages.
+This page is deployed to GitHub Pages.
 
 [link to my project:](https://oj-anaya.github.io/se_project_spots/)
 

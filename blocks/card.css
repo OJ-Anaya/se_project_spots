@@ -47,3 +47,15 @@
   opacity: 1;
   cursor: pointer;
 }
+
+@media screen and (max-width: 627px) {
+  .card__image {
+    /styles/
+  }
+  .card__title {
+    /styles/
+  }
+  .card__like-btn {
+    /styles/
+  }
+  }

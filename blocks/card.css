@@ -45,4 +45,5 @@
 
 .card__like-btn:hover {
   opacity: 1;
+  cursor: pointer;
 }

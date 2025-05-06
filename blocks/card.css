@@ -3,7 +3,7 @@
 }
 
 .card__image {
-  height: 413px;
+  height: 288px;
   width: 413px;
   object-fit: cover;
   display: block;
@@ -47,3 +47,5 @@
   opacity: 1;
   cursor: pointer;
 }
+
+@media screen and (max-width: 627px) {

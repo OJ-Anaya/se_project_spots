@@ -47,15 +47,3 @@
   opacity: 1;
   cursor: pointer;
 }
-
-@media screen and (max-width: 627px) {
-  .card__image {
-    /styles for smaller screens */
-  }
-  .card__title {
-    /styles for smaller screens */
-  }
-  .card__like-btn {
-    /styles for smaller screens */
-  }
-  }

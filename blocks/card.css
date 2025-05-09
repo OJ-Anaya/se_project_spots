@@ -7,6 +7,7 @@
   object-fit: cover;
   display: block;
   border-radius: 8px;
+  width: 100%;
 }
 
 .card__content {
@@ -50,6 +51,11 @@
 @media screen and (max-width: 627px) {
   .card__image {
     height: 288px;
+  }
+
+  .card__like-btn {
+    width: 20px;
+    height: 18px;
   }
 
   .card__title {

@@ -4,7 +4,7 @@ An image sharing site.
 
 ## Description
 
-On this project we're requiered to use everything we had learned since day one to test our skill, so we can start coding and learn in the future about websites displaying on different devices.
+In this project we're requiered to use everything we had learned since day one to test our skills, so we can start coding and learn in the future about websites displaying on different devices.
 
 ## Tech Stack
 

@@ -83,6 +83,7 @@
   font-size: 16px;
   font-weight: 500;
   font-family: "Poppins", Arial, Helvetica, sans-serif;
+  align-items: center;
 }
 
 .profile__add-btn:hover {
@@ -97,6 +98,10 @@
   }
 
   .profile__add-btn {
+    align-self: center;
+  }
+
+  .profile__edit-btn {
     align-self: center;
   }
 
